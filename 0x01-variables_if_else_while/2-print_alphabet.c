@@ -8,10 +8,10 @@
 
 int main(void)
 {
-	/*declare variable*/ 
+	/*declare variable*/
 	char ch;
 
-	for(ch = 'a'; ch <= 'z'; ch++)
+	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		/*print value of ch*/
 		putchar(ch);
