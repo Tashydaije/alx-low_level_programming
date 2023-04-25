@@ -4,7 +4,7 @@
  * _islower - Entry point
  *
  * Description: function that checks for lowercase character.
- * c: the integer value  receives
+ * @c: the integer value  receives
  *
  * Return: 1 if true. 0 if false.
  */
