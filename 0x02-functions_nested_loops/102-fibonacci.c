@@ -2,7 +2,7 @@
 
 /**
  * main - prints the first 50 fibonacci numbers
- * Return - 0
+ * Return: 0
  */
 
 int main(void)
@@ -19,13 +19,13 @@ int main(void)
 		}
 		else if (i == 1)
 		{
-			printf(" ,%ld", k);
+			printf(", %ld", k);
 		}
 		else
 		{
 			k += j;
 			j = k - j;
-			printf(" ,%ld", k);
+			printf(", %ld", k);
 		}
 
 		++i;
