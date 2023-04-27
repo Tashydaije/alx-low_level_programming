@@ -16,7 +16,7 @@ void print_numbers(void)
 		_putchar(c + '0');
 		c++;
 	}
-	
+
 	_putchar('\n');
 
 }
