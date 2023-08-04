@@ -5,7 +5,7 @@
  * @argc: count of arguments
  * @argv: Array of pointers to the strings
  *
- * return: 0 for exit success
+ * Return: 0 for exit success
  */
 
 int main(int argc __attribute__((unused)), char *argv[])
