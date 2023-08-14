@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- * main - program that prints name of its source file
+ * File: 2-main.c
+ * Desc: prog that prints name of file its compiled from
  *
- * Return: zero
  */
 
 int main(void)
