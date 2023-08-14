@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- * main - program that prints name of its source file
+/**
+ * main - prints the name of the file
  *
  * Return: Always 0
  */
