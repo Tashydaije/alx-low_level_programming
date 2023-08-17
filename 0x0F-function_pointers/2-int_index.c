@@ -7,8 +7,9 @@
  * @size: size of array
  * @cmp: pointer to funct for comparison
  *
- * Returns: index of first element != 0
- * 	    -1 if no element match or size <= 0
+ * Return: -1 if no element match or size <= 0.
+ * else index of first element for which cmp
+ * func does not return 0
  *
  */
 
